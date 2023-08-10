@@ -1,0 +1,101 @@
+,name,market_cap,price,cik_str,ticker,title_searchable,title_confirmed,tech_or_non_tech
+0,Apple,$3.030 T,$191.33,320193,AAPL,Apple Inc.,apple inc. (aapl),tech
+1,Microsoft,$2.533 T,$338.15,789019,MSFT,MICROSOFT CORP,,tech
+2,Alphabet (Google),$1.553 T,$122.63,1652044,GOOG,Alphabet Inc.,,tech
+3,Amazon,$1.337 T,$130.38,1018724,AMZN,AMAZON COM INC,,tech
+4,NVIDIA,$1.045 T,$423.17,1045810,NVDA,NVIDIA CORP,,tech
+5,Tesla,$895.32 B,$282.48,1318605,TSLA,"Tesla, Inc.",,tech
+6,Meta Platforms (Facebook),$756.63 B,$294.37,1326801,META,"Meta Platforms, Inc.",,tech
+7,Berkshire Hathaway,$744.26 B,$341.56,1067983,BRK-B,BERKSHIRE HATHAWAY INC,,non_tech
+8,Visa,$500.46 B,$239.45,1403161,V,VISA INC.,,tech
+9,Eli Lilly,$442.07 B,$465.70,59478,LLY,ELI LILLY & Co,,non_tech
+10,UnitedHealth,$441.25 B,$471.22,731766,UNH,UNITEDHEALTH GROUP INC,,non_tech
+11,Exxon Mobil,$432.23 B,$106.91,34088,XOM,EXXON MOBIL CORP,,non_tech
+12,Walmart,$425.76 B,$158.11,104169,WMT,Walmart Inc.,,non_tech
+13,Johnson & Johnson,$423.09 B,$162.81,200406,JNJ,JOHNSON & JOHNSON,,non_tech
+14,JPMorgan Chase,$422.68 B,$144.64,19617,JPM,JPMORGAN CHASE & CO,,non_tech
+15,Mastercard,$373.43 B,$394.73,1141391,MA,Mastercard Inc,,tech
+16,Procter & Gamble,$358.82 B,$152.24,80424,PG,PROCTER & GAMBLE Co,,non_tech
+17,Broadcom,$355.67 B,$861.86,1730168,AVGO,Broadcom Inc.,,tech
+18,Oracle,$314.74 B,$115.96,1341439,ORCL,ORACLE CORP,,tech
+19,Home Depot,$313.09 B,$310.80,354950,HD,"HOME DEPOT, INC.",,non_tech
+20,Chevron,$292.47 B,$156.31,93410,CVX,CHEVRON CORP,,non_tech_unsure
+21,Merck,$291.18 B,$113.70,310158,MRK,"Merck & Co., Inc.",,tech
+22,Coca-Cola,$263.92 B,$61.03,21344,KO,COCA COLA CO,,non_tech
+23,Pepsico,$257.04 B,$186.58,77476,PEP,PEPSICO INC,,non_tech
+24,AbbVie,$242.80 B,$137.62,1551152,ABBV,AbbVie Inc.,,non_tech
+25,Costco,$239.80 B,$541.13,909832,COST,COSTCO WHOLESALE CORP /NEW,,non_tech
+26,Bank of America,$231.74 B,$29.08,70858,BAC,BANK OF AMERICA CORP /DE/,,non_tech
+27,Adobe,$223.50 B,$487.26,796343,ADBE,ADOBE INC.,,tech
+28,McDonald,$216.76 B,$296.90,63908,MCD,MCDONALDS CORP,,non_tech
+29,Cisco,$209.90 B,$51.51,858877,CSCO,"CISCO SYSTEMS, INC.",,tech
+30,Salesforce,$208.26 B,$213.82,1108524,CRM,"Salesforce, Inc.",,tech
+31,Pfizer,$205.99 B,$36.46,78003,PFE,PFIZER INC,,non_tech
+32,Thermo Fisher Scientific,$200.80 B,$520.60,97745,TMO,THERMO FISHER SCIENTIFIC INC.,,tech
+33,Netflix,$198.22 B,$445.90,1065280,NFLX,NETFLIX INC,,tech
+34,Abbott Laboratories,$189.84 B,$107.37,1800,ABT,ABBOTT LABORATORIES,,tech
+35,AMD,$183.50 B,$113.95,750686,CAC,CAMDEN NATIONAL CORP,,non_tech
+36,Danaher,$175.16 B,$237.38,313616,DHR,DANAHER CORP /DE/,,tech
+37,Comcast,$172.92 B,$41.48,1166691,CMCSA,COMCAST CORP,,tech
+38,T-Mobile US,$167.45 B,$139.56,1283699,TMUS,"T-Mobile US, Inc.",,tech
+39,Nike,$166.51 B,$107.10,320187,NKE,"NIKE, Inc.",,non_tech
+40,Walt Disney,$164.07 B,$89.79,1744489,DIS,Walt Disney Co,,non_tech
+41,Wells Fargo,$163.14 B,$43.48,72971,WFC,WELLS FARGO & COMPANY/MN,,non_tech
+42,Texas Instruments,$160.22 B,$176.53,97476,TXN,TEXAS INSTRUMENTS INC,,tech
+43,Verizon,$157.56 B,$37.48,732712,VZ,VERIZON COMMUNICATIONS INC,,tech
+44,United Parcel Service,$154.57 B,$179.97,1090727,UPS,UNITED PARCEL SERVICE INC,,non_tech
+45,Nextera Energy,$151.65 B,$74.95,753308,NEE,NEXTERA ENERGY INC,,tech
+46,Philip Morris,$151.26 B,$97.45,1413329,PM,Philip Morris International Inc.,,non_tech
+47,Raytheon Technologies,$143.54 B,$98.24,101829,RTX,RAYTHEON TECHNOLOGIES CORP,,tech
+48,Morgan Stanley,$143.49 B,$85.92,895421,MS,MORGAN STANLEY,,non_tech
+49,Honeywell,$137.41 B,$206.43,773840,HON,HONEYWELL INTERNATIONAL INC,,tech
+50,Bristol-Myers Squibb,$135.98 B,$64.73,14272,BMY,BRISTOL MYERS SQUIBB CO,,non_tech
+51,Intel,$135.59 B,$32.51,50863,INTC,INTEL CORP,,tech
+52,Lowe's Companies,$132.13 B,$225.49,1047716,LTMAY,LATAM AIRLINES GROUP S.A.,,non_tech
+53,American Express,$130.49 B,$175.57,4962,AXP,AMERICAN EXPRESS CO,,tech
+54,QUALCOMM,$130.48 B,$117.13,804328,QCOM,QUALCOMM INC/DE,,tech
+55,Boeing,$128.47 B,$213.31,12927,BA,BOEING CO,,non_tech_unsure
+56,Intuit,$128.22 B,$457.84,896878,INTU,INTUIT INC.,,tech
+57,S&P Global,$128.19 B,$399.60,64040,SPGI,S&P Global Inc.,,tech
+58,Caterpillar,$126.41 B,$244.83,18230,CAT,CATERPILLAR INC,,non_tech_unsure
+59,ConocoPhillips,$125.87 B,$104.02,1163165,COP,CONOCOPHILLIPS,,non_tech_unsure
+60,Union Pacific Corporation,$124.32 B,$203.91,1512544,ITTOY,ITOCHU Techno-Solutions Corporation/ADR,,tech
+61,IBM,$121.89 B,$134.24,51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,,tech
+62,Amgen,$120.69 B,$225.88,318154,AMGN,AMGEN INC,,tech
+63,Applied Materials,$119.46 B,$142.26,6951,AMAT,APPLIED MATERIALS INC /DE,,tech
+64,Deere & Company,$118.64 B,$404.66,315189,DE,DEERE & CO,,non_tech_unsure
+65,General Electric,$118.45 B,$108.65,40545,GE,GENERAL ELECTRIC CO,,tech
+66,Lockheed Martin,$117.19 B,$462.76,936468,LMT,LOCKHEED MARTIN CORP,,tech
+67,Intuitive Surgical,$116.99 B,$333.89,1035267,ISRG,INTUITIVE SURGICAL INC,,tech
+68,ServiceNow,$115.26 B,$565.76,1373715,NOW,"ServiceNow, Inc.",,tech
+69,AT&T,$114.88 B,$16.07,732717,T,AT&T INC.,,tech
+70,Prologis,$114.50 B,$123.99,1045609,PLD,"Prologis, Inc.",,tech
+71,Stryker Corporation,$112.88 B,$297.37,310764,SYK,STRYKER CORP,,tech
+72,Starbucks,$112.87 B,$98.46,829224,SBUX,STARBUCKS CORP,,non_tech
+73,Goldman Sachs,$106.39 B,$320.05,886982,GS,GOLDMAN SACHS GROUP INC,,non_tech
+74,Elevance Health,$105.02 B,$443.03,1156039,ELV,"Elevance Health, Inc.",,non_tech
+75,BlackRock,$103.76 B,$692.83,1364742,BLK,BlackRock Inc.,,non_tech
+76,Charles Schwab,$103.17 B,$56.69,316709,SCHW,SCHWAB CHARLES CORP,,non_tech
+77,Mondelez,$99.71 B,$73.22,1103982,MDLZ,"Mondelez International, Inc.",,non_tech
+78,Booking Holdings (Booking.com),$98.76 B,"$2,674",1018724,AMZN,AMAZON COM INC,,tech
+79,TJX Companies,$97.34 B,$84.70,109198,TJX,TJX COMPANIES INC /DE/,,non_tech
+80,Gilead Sciences,$96.76 B,$77.24,882095,GILD,"GILEAD SCIENCES, INC.",,non_tech
+81,Analog Devices,$95.26 B,$190.00,6281,ADI,ANALOG DEVICES INC,,tech
+82,American Tower,$92.44 B,$198.36,1053507,AMT,AMERICAN TOWER CORP /MA/,,non_tech_unsure
+83,Marsh & McLennan Companies,$92.03 B,$186.03,62709,MMC,"MARSH & MCLENNAN COMPANIES, INC.",,non_tech
+84,Automatic Data Processing,$91.20 B,$219.70,8670,ADP,AUTOMATIC DATA PROCESSING INC,,tech
+85,Citigroup,$91.10 B,$46.80,831001,C,CITIGROUP INC,,non_tech
+86,Vertex Pharmaceuticals,$89.71 B,$348.32,875320,VRTX,VERTEX PHARMACEUTICALS INC / MA,,non_tech
+87,CVS Health,$89.21 B,$69.59,64803,CVS,CVS HEALTH Corp,,non_tech
+88,Uber,$88.52 B,$43.66,1543151,UBER,"Uber Technologies, Inc",,tech
+89,Lam Research,$84.44 B,$628.58,707549,LRCX,LAM RESEARCH CORP,,tech
+90,HCA Healthcare,$83.70 B,$298.35,860730,HCA,"HCA Healthcare, Inc.",,non_tech
+91,Cigna,$83.06 B,$280.75,1739940,CI,Cigna Group,,non_tech
+92,Airbnb,$82.99 B,$131.69,1559720,ABNB,"Airbnb, Inc.",,tech
+93,Altria Group,$82.07 B,$45.98,764180,MO,"ALTRIA GROUP, INC.",,non_tech
+94,Palo Alto Networks,$78.87 B,$257.88,1327567,PANW,Palo Alto Networks Inc,,tech
+95,Regeneron Pharmaceuticals,$78.75 B,$717.83,872589,REGN,"REGENERON PHARMACEUTICALS, INC.",,tech
+96,Zoetis,$78.25 B,$169.35,1555280,ZTS,Zoetis Inc.,,non_tech
+97,Southern Company,$78.15 B,$71.68,72971,WFC,WELLS FARGO & COMPANY/MN,,non_tech
+98,Fiserv,$77.10 B,$124.90,798354,FI,FISERV INC,,tech
+99,Progressive,$76.93 B,$131.43,80661,PGR,PROGRESSIVE CORP/OH/,,non_tech

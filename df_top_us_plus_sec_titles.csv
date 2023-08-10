@@ -1,0 +1,101 @@
+,name,market_cap,price,country,,Name_2,Market Cap_2,Price_2,Country_2,cik_str,ticker,title
+0,Apple,$3.030 T,$191.33,🇺🇸 USA,95,Apple,$3.030 T,$191.33,🇺🇸 USA,320193,AAPL,Apple Inc.
+1,Microsoft,$2.533 T,$338.15,🇺🇸 USA,111,Microsoft,$2.533 T,$338.15,🇺🇸 USA,789019,MSFT,MICROSOFT CORP
+2,Alphabet (Google),$1.553 T,$122.63,🇺🇸 USA,135,,,,,1652044,GOOG,Alphabet Inc.
+3,Amazon,$1.337 T,$130.38,🇺🇸 USA,49,Amazon,$1.337 T,$130.38,🇺🇸 USA,1018724,AMZN,AMAZON COM INC
+4,NVIDIA,$1.045 T,$423.17,🇺🇸 USA,84,NVIDIA,$1.045 T,$423.17,🇺🇸 USA,1045810,NVDA,NVIDIA CORP
+5,Tesla,$895.32 B,$282.48,🇺🇸 USA,75,Tesla,$895.32 B,$282.48,🇺🇸 USA,1318605,TSLA,"Tesla, Inc."
+6,Meta Platforms (Facebook),$756.63 B,$294.37,🇺🇸 USA,110,Meta Platforms (Facebook),$756.63 B,$294.37,🇺🇸 USA,1326801,META,"Meta Platforms, Inc."
+7,Berkshire Hathaway,$744.26 B,$341.56,🇺🇸 USA,125,Berkshire Hathaway,$744.26 B,$341.56,🇺🇸 USA,1067983,BRK-B,BERKSHIRE HATHAWAY INC
+8,Visa,$500.46 B,$239.45,🇺🇸 USA,4,Visa,$500.46 B,$239.45,🇺🇸 USA,1403161,V,VISA INC.
+9,Eli Lilly,$442.07 B,$465.70,🇺🇸 USA,117,Eli Lilly,$442.07 B,$465.70,🇺🇸 USA,59478,LLY,ELI LILLY & Co
+10,UnitedHealth,$441.25 B,$471.22,🇺🇸 USA,47,UnitedHealth,$441.25 B,$471.22,🇺🇸 USA,731766,UNH,UNITEDHEALTH GROUP INC
+11,Exxon Mobil,$432.23 B,$106.91,🇺🇸 USA,118,Exxon Mobil,$432.23 B,$106.91,🇺🇸 USA,34088,XOM,EXXON MOBIL CORP
+12,Walmart,$425.76 B,$158.11,🇺🇸 USA,23,Walmart,$425.76 B,$158.11,🇺🇸 USA,104169,WMT,Walmart Inc.
+13,Johnson & Johnson,$423.09 B,$162.81,🇺🇸 USA,96,Johnson & Johnson,$423.09 B,$162.81,🇺🇸 USA,200406,JNJ,JOHNSON & JOHNSON
+14,JPMorgan Chase,$422.68 B,$144.64,🇺🇸 USA,114,JPMorgan Chase,$422.68 B,$144.64,🇺🇸 USA,19617,JPM,JPMORGAN CHASE & CO
+15,Mastercard,$373.43 B,$394.73,🇺🇸 USA,121,Mastercard,$373.43 B,$394.73,🇺🇸 USA,1141391,MA,Mastercard Inc
+16,Procter & Gamble,$358.82 B,$152.24,🇺🇸 USA,17,Procter & Gamble,$358.82 B,$152.24,🇺🇸 USA,80424,PG,PROCTER & GAMBLE Co
+17,Broadcom,$355.67 B,$861.86,🇺🇸 USA,35,Broadcom,$355.67 B,$861.86,🇺🇸 USA,1730168,AVGO,Broadcom Inc.
+18,Oracle,$314.74 B,$115.96,🇺🇸 USA,89,Oracle,$314.74 B,$115.96,🇺🇸 USA,1341439,ORCL,ORACLE CORP
+19,Home Depot,$313.09 B,$310.80,🇺🇸 USA,27,Home Depot,$313.09 B,$310.80,🇺🇸 USA,354950,HD,"HOME DEPOT, INC."
+20,Chevron,$292.47 B,$156.31,🇺🇸 USA,38,Chevron,$292.47 B,$156.31,🇺🇸 USA,93410,CVX,CHEVRON CORP
+21,Merck,$291.18 B,$113.70,🇺🇸 USA,109,Merck,$291.18 B,$113.70,🇺🇸 USA,310158,MRK,"Merck & Co., Inc."
+22,Coca-Cola,$263.92 B,$61.03,🇺🇸 USA,8,Coca-Cola,$263.92 B,$61.03,🇺🇸 USA,21344,KO,COCA COLA CO
+23,Pepsico,$257.04 B,$186.58,🇺🇸 USA,14,Pepsico,$257.04 B,$186.58,🇺🇸 USA,77476,PEP,PEPSICO INC
+24,AbbVie,$242.80 B,$137.62,🇺🇸 USA,29,AbbVie,$242.80 B,$137.62,🇺🇸 USA,1551152,ABBV,AbbVie Inc.
+25,Costco,$239.80 B,$541.13,🇺🇸 USA,3,Costco,$239.80 B,$541.13,🇺🇸 USA,909832,COST,COSTCO WHOLESALE CORP /NEW
+26,Bank of America,$231.74 B,$29.08,🇺🇸 USA,104,Bank of America,$231.74 B,$29.08,🇺🇸 USA,70858,BAC,BANK OF AMERICA CORP /DE/
+27,Adobe,$223.50 B,$487.26,🇺🇸 USA,41,Adobe,$223.50 B,$487.26,🇺🇸 USA,796343,ADBE,ADOBE INC.
+28,McDonald,$216.76 B,$296.90,🇺🇸 USA,108,McDonald,$216.76 B,$296.90,🇺🇸 USA,63908,MCD,MCDONALDS CORP
+29,Cisco,$209.90 B,$51.51,🇺🇸 USA,40,Cisco,$209.90 B,$51.51,🇺🇸 USA,858877,CSCO,"CISCO SYSTEMS, INC."
+30,Salesforce,$208.26 B,$213.82,🇺🇸 USA,20,Salesforce,$208.26 B,$213.82,🇺🇸 USA,1108524,CRM,"Salesforce, Inc."
+31,Pfizer,$205.99 B,$36.46,🇺🇸 USA,15,Pfizer,$205.99 B,$36.46,🇺🇸 USA,78003,PFE,PFIZER INC
+32,Thermo Fisher Scientific,$200.80 B,$520.60,🇺🇸 USA,77,Thermo Fisher Scientific,$200.80 B,$520.60,🇺🇸 USA,97745,TMO,THERMO FISHER SCIENTIFIC INC.
+33,Netflix,$198.22 B,$445.90,🇺🇸 USA,132,Netflix,$198.22 B,$445.90,🇺🇸 USA,1065280,NFLX,NETFLIX INC
+34,Abbott Laboratories,$189.84 B,$107.37,🇺🇸 USA,48,Abbott Laboratories,$189.84 B,$107.37,🇺🇸 USA,1800,ABT,ABBOTT LABORATORIES
+35,AMD,$183.50 B,$113.95,🇺🇸 USA,86,AMD,$183.50 B,$113.95,🇺🇸 USA,750686,CAC,CAMDEN NATIONAL CORP
+36,Danaher,$175.16 B,$237.38,🇺🇸 USA,22,Danaher,$175.16 B,$237.38,🇺🇸 USA,313616,DHR,DANAHER CORP /DE/
+37,Comcast,$172.92 B,$41.48,🇺🇸 USA,115,Comcast,$172.92 B,$41.48,🇺🇸 USA,1166691,CMCSA,COMCAST CORP
+38,T-Mobile US,$167.45 B,$139.56,🇺🇸 USA,119,T-Mobile US,$167.45 B,$139.56,🇺🇸 USA,1283699,TMUS,"T-Mobile US, Inc."
+39,Nike,$166.51 B,$107.10,🇺🇸 USA,82,Nike,$166.51 B,$107.10,🇺🇸 USA,320187,NKE,"NIKE, Inc."
+40,Walt Disney,$164.07 B,$89.79,🇺🇸 USA,136,Walt Disney,$164.07 B,$89.79,🇺🇸 USA,1744489,DIS,Walt Disney Co
+41,Wells Fargo,$163.14 B,$43.48,🇺🇸 USA,28,Wells Fargo,$163.14 B,$43.48,🇺🇸 USA,72971,WFC,WELLS FARGO & COMPANY/MN
+42,Texas Instruments,$160.22 B,$176.53,🇺🇸 USA,76,Texas Instruments,$160.22 B,$176.53,🇺🇸 USA,97476,TXN,TEXAS INSTRUMENTS INC
+43,Verizon,$157.56 B,$37.48,🇺🇸 USA,72,Verizon,$157.56 B,$37.48,🇺🇸 USA,732712,VZ,VERIZON COMMUNICATIONS INC
+44,United Parcel Service,$154.57 B,$179.97,🇺🇸 USA,81,United Parcel Service,$154.57 B,$179.97,🇺🇸 USA,1090727,UPS,UNITED PARCEL SERVICE INC
+45,Nextera Energy,$151.65 B,$74.95,🇺🇸 USA,24,Nextera Energy,$151.65 B,$74.95,🇺🇸 USA,753308,NEE,NEXTERA ENERGY INC
+46,Philip Morris,$151.26 B,$97.45,🇺🇸 USA,16,Philip Morris,$151.26 B,$97.45,🇺🇸 USA,1413329,PM,Philip Morris International Inc.
+47,Raytheon Technologies,$143.54 B,$98.24,🇺🇸 USA,98,Raytheon Technologies,$143.54 B,$98.24,🇺🇸 USA,101829,RTX,RAYTHEON TECHNOLOGIES CORP
+48,Morgan Stanley,$143.49 B,$85.92,🇺🇸 USA,113,Morgan Stanley,$143.49 B,$85.92,🇺🇸 USA,895421,MS,MORGAN STANLEY
+49,Honeywell,$137.41 B,$206.43,🇺🇸 USA,51,Honeywell,$137.41 B,$206.43,🇺🇸 USA,773840,HON,HONEYWELL INTERNATIONAL INC
+50,Bristol-Myers Squibb,$135.98 B,$64.73,🇺🇸 USA,34,Bristol-Myers Squibb,$135.98 B,$64.73,🇺🇸 USA,14272,BMY,BRISTOL MYERS SQUIBB CO
+51,Intel,$135.59 B,$32.51,🇺🇸 USA,30,Intel,$135.59 B,$32.51,🇺🇸 USA,50863,INTC,INTEL CORP
+52,Lowe's Companies,$132.13 B,$225.49,🇺🇸 USA,139,Lowe's Companies,$132.13 B,$225.49,🇺🇸 USA,1047716,LTMAY,LATAM AIRLINES GROUP S.A.
+53,American Express,$130.49 B,$175.57,🇺🇸 USA,123,American Express,$130.49 B,$175.57,🇺🇸 USA,4962,AXP,AMERICAN EXPRESS CO
+54,QUALCOMM,$130.48 B,$117.13,🇺🇸 USA,131,QUALCOMM,$130.48 B,$117.13,🇺🇸 USA,804328,QCOM,QUALCOMM INC/DE
+55,Boeing,$128.47 B,$213.31,🇺🇸 USA,32,Boeing,$128.47 B,$213.31,🇺🇸 USA,12927,BA,BOEING CO
+56,Intuit,$128.22 B,$457.84,🇺🇸 USA,129,Intuit,$128.22 B,$457.84,🇺🇸 USA,896878,INTU,INTUIT INC.
+57,S&P Global,$128.19 B,$399.60,🇺🇸 USA,124,S&P Global,$128.19 B,$399.60,🇺🇸 USA,64040,SPGI,S&P Global Inc.
+58,Caterpillar,$126.41 B,$244.83,🇺🇸 USA,36,Caterpillar,$126.41 B,$244.83,🇺🇸 USA,18230,CAT,CATERPILLAR INC
+59,ConocoPhillips,$125.87 B,$104.02,🇺🇸 USA,88,ConocoPhillips,$125.87 B,$104.02,🇺🇸 USA,1163165,COP,CONOCOPHILLIPS
+60,Union Pacific Corporation,$124.32 B,$203.91,🇺🇸 USA,80,Union Pacific Corporation,$124.32 B,$203.91,🇺🇸 USA,1512544,ITTOY,ITOCHU Techno-Solutions Corporation/ADR
+61,IBM,$121.89 B,$134.24,🇺🇸 USA,92,,,,,51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP
+62,Amgen,$120.69 B,$225.88,🇺🇸 USA,122,Amgen,$120.69 B,$225.88,🇺🇸 USA,318154,AMGN,AMGEN INC
+63,Applied Materials,$119.46 B,$142.26,🇺🇸 USA,101,Applied Materials,$119.46 B,$142.26,🇺🇸 USA,6951,AMAT,APPLIED MATERIALS INC /DE
+64,Deere & Company,$118.64 B,$404.66,🇺🇸 USA,91,Deere & Company,$118.64 B,$404.66,🇺🇸 USA,315189,DE,DEERE & CO
+65,General Electric,$118.45 B,$108.65,🇺🇸 USA,133,General Electric,$118.45 B,$108.65,🇺🇸 USA,40545,GE,GENERAL ELECTRIC CO
+66,Lockheed Martin,$117.19 B,$462.76,🇺🇸 USA,12,Lockheed Martin,$117.19 B,$462.76,🇺🇸 USA,936468,LMT,LOCKHEED MARTIN CORP
+67,Intuitive Surgical,$116.99 B,$333.89,🇺🇸 USA,50,Intuitive Surgical,$116.99 B,$333.89,🇺🇸 USA,1035267,ISRG,INTUITIVE SURGICAL INC
+68,ServiceNow,$115.26 B,$565.76,🇺🇸 USA,42,ServiceNow,$115.26 B,$565.76,🇺🇸 USA,1373715,NOW,"ServiceNow, Inc."
+69,AT&T,$114.88 B,$16.07,🇺🇸 USA,102,AT&T,$114.88 B,$16.07,🇺🇸 USA,732717,T,AT&T INC.
+70,Prologis,$114.50 B,$123.99,🇺🇸 USA,19,Prologis,$114.50 B,$123.99,🇺🇸 USA,1045609,PLD,"Prologis, Inc."
+71,Stryker Corporation,$112.88 B,$297.37,🇺🇸 USA,1,Stryker Corporation,$112.88 B,$297.37,🇺🇸 USA,310764,SYK,STRYKER CORP
+72,Starbucks,$112.87 B,$98.46,🇺🇸 USA,6,Starbucks,$112.87 B,$98.46,🇺🇸 USA,829224,SBUX,STARBUCKS CORP
+73,Goldman Sachs,$106.39 B,$320.05,🇺🇸 USA,126,Goldman Sachs,$106.39 B,$320.05,🇺🇸 USA,886982,GS,GOLDMAN SACHS GROUP INC
+74,Elevance Health,$105.02 B,$443.03,🇺🇸 USA,116,Elevance Health,$105.02 B,$443.03,🇺🇸 USA,1156039,ELV,"Elevance Health, Inc."
+75,BlackRock,$103.76 B,$692.83,🇺🇸 USA,31,BlackRock,$103.76 B,$692.83,🇺🇸 USA,1364742,BLK,BlackRock Inc.
+76,Charles Schwab,$103.17 B,$56.69,🇺🇸 USA,37,Charles Schwab,$103.17 B,$56.69,🇺🇸 USA,316709,SCHW,SCHWAB CHARLES CORP
+77,Mondelez,$99.71 B,$73.22,🇺🇸 USA,112,Mondelez,$99.71 B,$73.22,🇺🇸 USA,1103982,MDLZ,"Mondelez International, Inc."
+78,Booking Holdings (Booking.com),$98.76 B,"$2,674",🇺🇸 USA,33,Booking Holdings (Booking.com),$98.76 B,"$2,674",🇺🇸 USA,1018724,AMZN,AMAZON COM INC
+79,TJX Companies,$97.34 B,$84.70,🇺🇸 USA,78,TJX Companies,$97.34 B,$84.70,🇺🇸 USA,109198,TJX,TJX COMPANIES INC /DE/
+80,Gilead Sciences,$96.76 B,$77.24,🇺🇸 USA,43,Gilead Sciences,$96.76 B,$77.24,🇺🇸 USA,882095,GILD,"GILEAD SCIENCES, INC."
+81,Analog Devices,$95.26 B,$190.00,🇺🇸 USA,0,Analog Devices,$95.26 B,$190.00,🇺🇸 USA,6281,ADI,ANALOG DEVICES INC
+82,American Tower,$92.44 B,$198.36,🇺🇸 USA,94,American Tower,$92.44 B,$198.36,🇺🇸 USA,1053507,AMT,AMERICAN TOWER CORP /MA/
+83,Marsh & McLennan Companies,$92.03 B,$186.03,🇺🇸 USA,97,Marsh & McLennan Companies,$92.03 B,$186.03,🇺🇸 USA,62709,MMC,"MARSH & MCLENNAN COMPANIES, INC."
+84,Automatic Data Processing,$91.20 B,$219.70,🇺🇸 USA,103,Automatic Data Processing,$91.20 B,$219.70,🇺🇸 USA,8670,ADP,AUTOMATIC DATA PROCESSING INC
+85,Citigroup,$91.10 B,$46.80,🇺🇸 USA,7,Citigroup,$91.10 B,$46.80,🇺🇸 USA,831001,C,CITIGROUP INC
+86,Vertex Pharmaceuticals,$89.71 B,$348.32,🇺🇸 USA,53,Vertex Pharmaceuticals,$89.71 B,$348.32,🇺🇸 USA,875320,VRTX,VERTEX PHARMACEUTICALS INC / MA
+87,CVS Health,$89.21 B,$69.59,🇺🇸 USA,83,CVS Health,$89.21 B,$69.59,🇺🇸 USA,64803,CVS,CVS HEALTH Corp
+88,Uber,$88.52 B,$43.66,🇺🇸 USA,79,Uber,$88.52 B,$43.66,🇺🇸 USA,1543151,UBER,"Uber Technologies, Inc"
+89,Lam Research,$84.44 B,$628.58,🇺🇸 USA,10,Lam Research,$84.44 B,$628.58,🇺🇸 USA,707549,LRCX,LAM RESEARCH CORP
+90,HCA Healthcare,$83.70 B,$298.35,🇺🇸 USA,127,HCA Healthcare,$83.70 B,$298.35,🇺🇸 USA,860730,HCA,"HCA Healthcare, Inc."
+91,Cigna,$83.06 B,$280.75,🇺🇸 USA,39,Cigna,$83.06 B,$280.75,🇺🇸 USA,1739940,CI,Cigna Group
+92,Airbnb,$82.99 B,$131.69,🇺🇸 USA,134,Airbnb,$82.99 B,$131.69,🇺🇸 USA,1559720,ABNB,"Airbnb, Inc."
+93,Altria Group,$82.07 B,$45.98,🇺🇸 USA,2,Altria Group,$82.07 B,$45.98,🇺🇸 USA,764180,MO,"ALTRIA GROUP, INC."
+94,Palo Alto Networks,$78.87 B,$257.88,🇺🇸 USA,99,Palo Alto Networks,$78.87 B,$257.88,🇺🇸 USA,1327567,PANW,Palo Alto Networks Inc
+95,Regeneron Pharmaceuticals,$78.75 B,$717.83,🇺🇸 USA,85,Regeneron Pharmaceuticals,$78.75 B,$717.83,🇺🇸 USA,872589,REGN,"REGENERON PHARMACEUTICALS, INC."
+96,Zoetis,$78.25 B,$169.35,🇺🇸 USA,45,Zoetis,$78.25 B,$169.35,🇺🇸 USA,1555280,ZTS,Zoetis Inc.
+97,Southern Company,$78.15 B,$71.68,🇺🇸 USA,26,Southern Company,$78.15 B,$71.68,🇺🇸 USA,72971,WFC,WELLS FARGO & COMPANY/MN
+98,Fiserv,$77.10 B,$124.90,🇺🇸 USA,25,Fiserv,$77.10 B,$124.90,🇺🇸 USA,798354,FI,FISERV INC
+99,Progressive,$76.93 B,$131.43,🇺🇸 USA,18,Progressive,$76.93 B,$131.43,🇺🇸 USA,80661,PGR,PROGRESSIVE CORP/OH/
