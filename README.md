@@ -63,7 +63,7 @@ print(merged_df)
 
 There are two major processes to figure out for the scraper to work:
 1) Get a list of the links of the most recent 10K documents
-2) Go into each 10K document link and withdraw the stock-based compensation details
+2) Go into each 10K document link and withdraw the stock-based compensation details <br/>
 
 Here is a video showing the goal:
 
@@ -105,7 +105,7 @@ ON THE 10K DOCUMENT LINK
 ## Navigate to the cash flows statements table
 1) Usually the cash flows statements have the following titles:
 * CONSOLIDATED STATEMENTS OF CASH FLOWS
-* CASH FLOWS STATEMENTS
+* CASH FLOWS STATEMENTS <br/>
 I used this information to trace the table. 
 > This extraction did not always work, presumably because sometimes the words were used earlier in the document rather than as a title for the table. One way could be checking if something that often appears reliably is present in the table extracted eg Net income and loss and if not to proceed to the next instance of the word. (Would not use stock-based compensation detail because it does not always appear eg for companies where this is not relevant)
 2) In this current iteration, I find the title then find the next table appearing. 
@@ -115,7 +115,7 @@ I used this information to trace the table.
 * Stock-based compensation expense
 * Share-based compensation expense
 * Stock-based compensation
-* Share-based compensation
+* Share-based compensation <br/>
 I used this information to find the table cell which has the stock-related details I want. 
 2) I go to the parent of the cell, the table row and extract all table cells in the row
 3) I extract all values in the row
