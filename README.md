@@ -166,6 +166,8 @@ Normalised over net income, there is no difference between the tax benefits from
 * The p-value in this case is large at 0.4807, indicating there is no statistically significant difference
 
 # Linear regressions
+Here is [a notebook where you can follow along](https://github.com/ivynyayieka/tech_sec/blob/main/sec_basic_regressions.ipynb) to see the details for this section.
+
 I ran linear regressions on the data to see if there are any patterns in the continuous data:
 
 
