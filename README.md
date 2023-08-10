@@ -65,8 +65,6 @@ There are two major processes to figure out for the scraper to work:
 1) Get a list of the links of the most recent 10K documents
 2) Go into each 10K document link and withdraw the stock-based compensation details <br/>
 
-Here is a video showing the goal:
-
 # Get a list of the links of the most recent 10K documents
 Here is [a notebook where you can follow along](for_10_K_get_links.ipynb) to see the details for this section.
 
