@@ -86,7 +86,7 @@ ON THE PAGE RESULTING FROM LINK OF MOST RECENT 10-K DOCUMENT AND GRAPHICS
 ![guide](guide_for_scraping_links.gif)
 
 # Go into each 10K document link and withdraw the stock-based compensation details
-Here is [a notebook where you can follow along](https://github.com/ivynyayieka/tech_sec/blob/main/for_10_K_automate_stock_collection_pre_manual.ipynb) to see the details for this section.
+Here is [a notebook where you can follow along](https://github.com/ivynyayieka/tech_sec/blob/main/for_10_K_automate_stock_collection.ipynb) to see the details for this section.
 
 Here, there are two major goals:
 1) Navigate to the cash flows statements table
