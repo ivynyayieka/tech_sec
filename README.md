@@ -163,7 +163,7 @@ Normalised over net income, there is no difference between the tax benefits from
 * The tax benefits from stock-based compensation expense are not associated with whether or not the effective tax rate is above ten. Effective rates are not likely to be above or below ten depending on tax benefits from stock-based compensation expense.
 * The p-value in this case is large at 0.4807, indicating there is no statistically significant difference
 
-# Linear regressions
+# Regression analysis
 Here is [a notebook where you can follow along](https://github.com/ivynyayieka/tech_sec/blob/main/sec_basic_regressions.ipynb) to see the details for this section.
 
 I ran linear regressions on the data to see if there are any patterns in the continuous data:
