@@ -175,7 +175,9 @@ This result is slightly predictable:
 
 
 ### Investigating impact of a company's tech or non-tech status on effective tax rates
-* The p-value for this coefficient is 0.0541, which is marginally above the conventional significance level of 0.05. This means that the evidence for a significant difference in tax rates between tech and non-tech companies is not strong enough to be conclusive at a standard significance level. In summary, the linear regression model suggests that tech companies may have lower tax rates on average, but the evidence for this difference is not statistically significant at the conventional significance level. Additional data or further analysis might be needed to draw more definitive conclusions.
+* In summary, this linear regression model suggests that whether the company is a tech company or not has a  significant relationship with effective tax rates. The adjusted R-squared is positive (0.04136), indicating that the model explains some of the variance in most_recent_tax_rates. The p-value for the predictor variable is  0.0336, which is below the typical significance level of 0.05, suggesting that the "tech" variable is statistically significant in predicting the response. Therefore, based on this analysis, the predictor variable has a statistically significant association with the dependent variable.
+
+The coefficient estimate for the variable factor (just_tech_or_non_tech)tech is -8.459. This negative coefficient indicates that,  being in the tech sector is associated with lower tax rates compared to being in the non-tech sector, assuming all other factors are held constant.
 
 ### Investigating impact of a company's tech or non-tech status on effective tax rates
 * The coefficients represent the estimated intercept and slope (or effect) of the stock-based compensation normalised over net income variable on most_recent_tax_rates: 0.03789
