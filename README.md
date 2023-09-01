@@ -197,4 +197,4 @@ There are two issues here:
 ### Irregularity in HTML structure of each 10 K:
 * This was the hardest to get around. I worked on something that could help for many entries but some would still need user intervention.
 
-Slowly building (online searcher here)[http://ivynyayieka.pythonanywhere.com/]. Currently only one playwright code block runs. 
+Slowly building [online searcher here](http://ivynyayieka.pythonanywhere.com/). Currently only one playwright code block runs. 
