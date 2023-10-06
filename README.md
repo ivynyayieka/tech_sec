@@ -172,17 +172,15 @@ I ran linear regressions on the data to see if there are any patterns in the con
 ### Investigating impact of net income on stock-based compensation expenses
 This result is slightly predictable:
 * In summary, this linear regression model suggests that there is a statistically significant relationship between stock-based compensation normalised over net income and most recent tax rates. The model explains approximately 13% of the variance in most recent tax rates, and the effect of stock-based compensation normalised over net income on most recent tax rates is positive and statistically significant.
-
-
-### Investigating impact of a company's tech or non-tech status on effective tax rates
-* In summary, this linear regression model suggests that whether the company is a tech company or not has a  significant relationship with effective tax rates. The adjusted R-squared is positive (0.04136), indicating that the model explains some of the variance in most_recent_tax_rates. The p-value for the predictor variable is  0.0336, which is below the typical significance level of 0.05, suggesting that the "tech" variable is statistically significant in predicting the response. Therefore, based on this analysis, the predictor variable has a statistically significant association with the dependent variable.
-
-The coefficient estimate for the variable factor (just_tech_or_non_tech)tech is -8.459. This negative coefficient indicates that,  being in the tech sector is associated with lower tax rates compared to being in the non-tech sector, assuming all other factors are held constant.
-
-### Investigating impact of a company's tech or non-tech status on effective tax rates
 * The coefficients represent the estimated intercept and slope (or effect) of the stock-based compensation normalised over net income variable on most_recent_tax_rates: 0.03789
 * The multiple R-squared represents the proportion of the variance explained by the model: just 13%. 
 * In summary, this linear regression model suggests that there is a statistically significant relationship between stock-based compensation normalised over net income and most recent tax rates. The model explains approximately 13% of the variance in most_recent_tax_rates, and the effect of stock-based compensation normalised over net income on most recent tax rates is positive and statistically significant.
+
+### Investigating impact of a company's tech or non-tech status on effective tax rates
+
+* In summary, this linear regression model suggests that whether the company is a tech company or not has a  significant relationship with effective tax rates. The adjusted R-squared is positive (0.04136), indicating that the model explains some of the variance in most_recent_tax_rates. The p-value for the predictor variable is  0.0336, which is below the typical significance level of 0.05, suggesting that the "tech" variable is statistically significant in predicting the response. Therefore, based on this analysis, the predictor variable has a statistically significant association with the dependent variable.
+* The coefficient estimate for the variable factor (just_tech_or_non_tech)tech is -8.459. This negative coefficient indicates that,  being in the tech sector is associated with lower tax rates compared to being in the non-tech sector, assuming all other factors are held constant.
+
 
 All the other information in the story was sourced from interviews and existing articles on related subjects
 
